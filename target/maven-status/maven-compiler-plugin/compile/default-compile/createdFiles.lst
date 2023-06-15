@@ -1,0 +1,15 @@
+dataset/datasetJenisBahan.class
+dataset/datasetLogin.class
+salary/barangMasuk.class
+form/mainForm.class
+dataset/datasetBarangMasuk.class
+App.class
+dataset/datasetBarangKeluar.class
+salary/main.class
+salary/supplier.class
+salary/barangKeluar.class
+dataset/datasetBarang.class
+salary/barang.class
+form/mainForm$1.class
+.netbeans_automatic_build
+dataset/datasetSupplier.class
